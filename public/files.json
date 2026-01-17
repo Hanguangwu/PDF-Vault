@@ -1,0 +1,150 @@
+[
+  {
+    "name": "AI",
+    "type": "directory",
+    "path": "Files/AI",
+    "children": [
+      {
+        "name": "从零开始构建企业级推荐系统 (张相於).pdf",
+        "type": "file",
+        "path": "Files/AI/从零开始构建企业级推荐系统 (张相於).pdf",
+        "size": 14319240,
+        "extension": ".pdf",
+        "lastModified": "2025-08-18T02:38:36.000Z"
+      },
+      {
+        "name": "大模型基础 (毛玉仁，高云君).pdf",
+        "type": "file",
+        "path": "Files/AI/大模型基础 (毛玉仁，高云君).pdf",
+        "size": 22232181,
+        "extension": ".pdf",
+        "lastModified": "2025-12-03T11:46:54.000Z"
+      },
+      {
+        "name": "强化学习（第2版）.pdf",
+        "type": "file",
+        "path": "Files/AI/强化学习（第2版）.pdf",
+        "size": 103249609,
+        "extension": ".pdf",
+        "lastModified": "2025-12-03T11:46:39.000Z"
+      },
+      {
+        "name": "深度学习的数学 (涌泉良幸, 涌泉井美).pdf",
+        "type": "file",
+        "path": "Files/AI/深度学习的数学 (涌泉良幸, 涌泉井美).pdf",
+        "size": 9757368,
+        "extension": ".pdf",
+        "lastModified": "2025-12-03T11:49:41.000Z"
+      },
+      {
+        "name": "Happy-LLM-0727.pdf",
+        "type": "file",
+        "path": "Files/AI/Happy-LLM-0727.pdf",
+        "size": 20717304,
+        "extension": ".pdf",
+        "lastModified": "2026-01-05T02:28:57.031Z"
+      },
+      {
+        "name": "LeeDL_Tutorial_v.1.2.4.pdf",
+        "type": "file",
+        "path": "Files/AI/LeeDL_Tutorial_v.1.2.4.pdf",
+        "size": 141945163,
+        "extension": ".pdf",
+        "lastModified": "2026-01-04T12:12:31.394Z"
+      }
+    ]
+  },
+  {
+    "name": "Economics",
+    "type": "directory",
+    "path": "Files/Economics",
+    "children": [
+      {
+        "name": "财富、贫穷与政治.pdf",
+        "type": "file",
+        "path": "Files/Economics/财富、贫穷与政治.pdf",
+        "size": 1903000,
+        "extension": ".pdf",
+        "lastModified": "2025-02-01T03:35:33.000Z"
+      },
+      {
+        "name": "耶鲁博弈论笔记全24讲.pdf",
+        "type": "file",
+        "path": "Files/Economics/耶鲁博弈论笔记全24讲.pdf",
+        "size": 2221230,
+        "extension": ".pdf",
+        "lastModified": "2025-08-18T02:38:34.000Z"
+      },
+      {
+        "name": "周期 (霍华德·马克斯 ) .pdf",
+        "type": "file",
+        "path": "Files/Economics/周期 (霍华德·马克斯 ) .pdf",
+        "size": 3750340,
+        "extension": ".pdf",
+        "lastModified": "2025-10-13T11:04:34.000Z"
+      }
+    ]
+  },
+  {
+    "name": "Math",
+    "type": "directory",
+    "path": "Files/Math",
+    "children": [
+      {
+        "name": "数学之美 (吴军).pdf",
+        "type": "file",
+        "path": "Files/Math/数学之美 (吴军).pdf",
+        "size": 53344099,
+        "extension": ".pdf",
+        "lastModified": "2025-09-02T03:44:44.000Z"
+      },
+      {
+        "name": "算法之美 ([美]布莱恩·克里斯汀 汤姆· 格里菲思）.pdf",
+        "type": "file",
+        "path": "Files/Math/算法之美 ([美]布莱恩·克里斯汀 汤姆· 格里菲思）.pdf",
+        "size": 4387833,
+        "extension": ".pdf",
+        "lastModified": "2025-09-02T03:47:20.000Z"
+      },
+      {
+        "name": "天才引导的历程：数学中的伟大定理 (William Dunham).pdf",
+        "type": "file",
+        "path": "Files/Math/天才引导的历程：数学中的伟大定理 (William Dunham).pdf",
+        "size": 10539649,
+        "extension": ".pdf",
+        "lastModified": "2025-11-11T04:31:41.000Z"
+      }
+    ]
+  },
+  {
+    "name": "PersonalGrowth",
+    "type": "directory",
+    "path": "Files/PersonalGrowth",
+    "children": [
+      {
+        "name": "程序员面试金典进阶练习 (第6版 修订版).pdf",
+        "type": "file",
+        "path": "Files/PersonalGrowth/程序员面试金典进阶练习 (第6版 修订版).pdf",
+        "size": 5386716,
+        "extension": ".pdf",
+        "lastModified": "2025-12-02T10:48:37.000Z"
+      },
+      {
+        "name": "大话设计模式 (程杰).pdf",
+        "type": "file",
+        "path": "Files/PersonalGrowth/大话设计模式 (程杰).pdf",
+        "size": 12540006,
+        "extension": ".pdf",
+        "lastModified": "2025-09-05T10:30:32.000Z"
+      },
+      {
+        "name": "上海交通大学生存手册.pdf",
+        "type": "file",
+        "path": "Files/PersonalGrowth/上海交通大学生存手册.pdf",
+        "size": 4552981,
+        "extension": ".pdf",
+        "lastModified": "2025-11-26T11:51:34.000Z"
+      }
+    ]
+  }
+]
